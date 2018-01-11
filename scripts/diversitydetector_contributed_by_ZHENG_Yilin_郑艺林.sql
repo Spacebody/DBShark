@@ -1,3 +1,6 @@
+--
+-- Query contributed by 郑艺林 (ZHENG Yilin)
+--
 -- script show several columns with the same name but with different data type or length(at least one is different)
 -- four columns showed in the table
 -- first column shows the column name which is duplicated in different tables
